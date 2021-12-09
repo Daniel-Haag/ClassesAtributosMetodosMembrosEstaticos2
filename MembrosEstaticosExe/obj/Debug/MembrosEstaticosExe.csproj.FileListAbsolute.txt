@@ -1,0 +1,6 @@
+C:\Users\danni\Desktop\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 4 - Classes. atributos, métodos, membros estáticos\MembrosEstaticosExe\MembrosEstaticosExe\bin\Debug\MembrosEstaticosExe.exe.config
+C:\Users\danni\Desktop\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 4 - Classes. atributos, métodos, membros estáticos\MembrosEstaticosExe\MembrosEstaticosExe\bin\Debug\MembrosEstaticosExe.exe
+C:\Users\danni\Desktop\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 4 - Classes. atributos, métodos, membros estáticos\MembrosEstaticosExe\MembrosEstaticosExe\bin\Debug\MembrosEstaticosExe.pdb
+C:\Users\danni\Desktop\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 4 - Classes. atributos, métodos, membros estáticos\MembrosEstaticosExe\MembrosEstaticosExe\obj\Debug\MembrosEstaticosExe.csproj.CoreCompileInputs.cache
+C:\Users\danni\Desktop\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 4 - Classes. atributos, métodos, membros estáticos\MembrosEstaticosExe\MembrosEstaticosExe\obj\Debug\MembrosEstaticosExe.exe
+C:\Users\danni\Desktop\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 4 - Classes. atributos, métodos, membros estáticos\MembrosEstaticosExe\MembrosEstaticosExe\obj\Debug\MembrosEstaticosExe.pdb
